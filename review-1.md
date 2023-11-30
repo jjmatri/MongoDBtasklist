@@ -13,5 +13,3 @@ las funcionalidades más importantes de la aplicacion que le permite al usuario 
 *Obtener una sola tarea.
 
 el usuario la utilizarían para saber qué actividades hiso en el día cuales le faltaron por realizar.
-
-
