@@ -9,7 +9,6 @@ las funcionalidades más importantes de la aplicacion que le permite al usuario 
 *Actualizar una tarea.
 *Eliminar una tarea.
 *Listar todas las tareas
-*Listar las tareas completas y las incompletas
-*Obtener una sola tarea.
+
 
 el usuario la utilizarían para saber qué actividades hiso en el día cuales le faltaron por realizar.
